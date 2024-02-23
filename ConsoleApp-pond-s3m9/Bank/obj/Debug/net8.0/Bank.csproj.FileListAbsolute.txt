@@ -1,0 +1,14 @@
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/bin/Debug/net8.0/Bank
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/bin/Debug/net8.0/Bank.deps.json
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/bin/Debug/net8.0/Bank.runtimeconfig.json
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/bin/Debug/net8.0/Bank.dll
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/bin/Debug/net8.0/Bank.pdb
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/obj/Debug/net8.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/obj/Debug/net8.0/Bank.AssemblyInfoInputs.cache
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/obj/Debug/net8.0/Bank.AssemblyInfo.cs
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/obj/Debug/net8.0/Bank.csproj.CoreCompileInputs.cache
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/obj/Debug/net8.0/Bank.dll
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/obj/Debug/net8.0/refint/Bank.dll
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/obj/Debug/net8.0/Bank.pdb
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/obj/Debug/net8.0/Bank.genruntimeconfig.cache
+/Users/anaclaramuller/Documents/GitHub/ConsoleApp-pond-s3m9/Bank/obj/Debug/net8.0/ref/Bank.dll
