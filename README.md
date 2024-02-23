@@ -1,5 +1,6 @@
 # testes-unitarios-pond-s3m9
- Realização da atividade de criação de testes unitários com C#
+ Realização da atividade de criação de testes unitários com C#.
+ 
  Aluna: Ana Clara Loureiro Muller Zaidan
 # Testes realizados
 ## Teste 1
@@ -66,3 +67,30 @@ resultado: teste passou
 ![img 13](/assets/img13.png)
 
 # Tecnologias e conceitos aprendidos
+
+A partir do entendimento do artigo https://learn.microsoft.com/pt-br/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2022 , da Microsoft, os testes descritos acima foram realizados utilizando as seguintes tecnologias e ferramentas:
+
+- Rider (IDE)
+- .NET 8.0
+- MSTest Framework
+
+O projeto em que os testes foram baseados é um Console App, e os testes foram realizados utilizando do MSTest Framework - uma estrutura de teste fornecida pela Microsoft para realizar testes unitários em aplicativos .NET. O MSTest da suporte para várias funcionalidades que facilitam a criação e execução de testes, como declaração de métodos de teste, organização de testes em classes e categorias, além de recursos de asserção.
+
+### Testes unitários
+Em relação aos testes unitários - que são extremamente importantes no desenvolvimento de softwares - foi possivel notar essa importância na prática, ja que, a partir dos testes, foi possivel identificar problemas no código, além formas de otimizá-lo. 
+Um exemplo de identificação de problema a partir dos testes é o Teste 1(descrito a cima), em que o teste ajuda a identificar um erro no método Debit.
+Além disso, um exemplo de identificação de possibilidade de melhoria a partir dos testes foi a otimização dos testes 2 e 3(descrito a cima) e da classe Debit, para que tratasse das Exceções de forma mais assertiva.
+
+### Atributos
+
+No contexto do MSTest, aprendi a utilizar os atributos/marcadores especiais que servem para identificar classes e métodos como testes ([TestClass] e [TestMethod]), e a criar a estrutura lógica de um teste de unidade, que verifica unidades individuais de código, como o método "Debit", de forma isolada.
+
+
+### Asserções
+
+Aprendi também sobre a utilização das Asserçõe dentro dos testes, que possibilitam a verificação de determinadas condições, validando e comparando o comportamento esperado e obtido pelo código durante os testes. Elas são essenciais para o funcionamento do teste, e um exemplo de asserção utilizada é o "Assert.AreEqual".
+
+### Conclusão
+
+A realização do passo-a-passo contribuiu muito para o meu entendimento de testes unitários (tanto conceitualmente como na prática), facilitando a aplicação desse conceito para outros projetos e contextos, incluindo o que está sendo desenvolvido para a Track.co.
+
