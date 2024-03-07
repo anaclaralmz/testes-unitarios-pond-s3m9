@@ -1,8 +1,4 @@
-# testes-unitarios-pond-s3m9
- Realização da atividade de criação de testes unitários com C#.
- 
- Aluna: Ana Clara Loureiro Muller Zaidan
-# Testes realizados
+# Testes unitários com C#
 ## Teste 1
 - caso de teste: "verifica que um valor válido (ou seja, um que seja menor que o saldo da conta e maior que zero) retira a quantidade correta da conta."
 
